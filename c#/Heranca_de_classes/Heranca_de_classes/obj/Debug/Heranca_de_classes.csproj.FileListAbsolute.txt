@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\repos\Heranca_de_classes\Heranca_de_classes\bin\Debug\Heranca_de_classes.exe.config
+C:\Users\lab102a\source\repos\Heranca_de_classes\Heranca_de_classes\bin\Debug\Heranca_de_classes.exe
+C:\Users\lab102a\source\repos\Heranca_de_classes\Heranca_de_classes\bin\Debug\Heranca_de_classes.pdb
+C:\Users\lab102a\source\repos\Heranca_de_classes\Heranca_de_classes\obj\Debug\Heranca_de_classes.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\repos\Heranca_de_classes\Heranca_de_classes\obj\Debug\Heranca_de_classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\repos\Heranca_de_classes\Heranca_de_classes\obj\Debug\Heranca_de_classes.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\Heranca_de_classes\Heranca_de_classes\obj\Debug\Heranca_de_classes.exe
+C:\Users\lab102a\source\repos\Heranca_de_classes\Heranca_de_classes\obj\Debug\Heranca_de_classes.pdb

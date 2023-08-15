@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\repos\PropriedadesDeClasses\PropriedadesDeClasses\bin\Debug\PropriedadesDeClasses.exe.config
+C:\Users\lab102a\source\repos\PropriedadesDeClasses\PropriedadesDeClasses\bin\Debug\PropriedadesDeClasses.exe
+C:\Users\lab102a\source\repos\PropriedadesDeClasses\PropriedadesDeClasses\bin\Debug\PropriedadesDeClasses.pdb
+C:\Users\lab102a\source\repos\PropriedadesDeClasses\PropriedadesDeClasses\obj\Debug\PropriedadesDeClasses.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\repos\PropriedadesDeClasses\PropriedadesDeClasses\obj\Debug\PropriedadesDeClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\repos\PropriedadesDeClasses\PropriedadesDeClasses\obj\Debug\PropriedadesDeClasses.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\PropriedadesDeClasses\PropriedadesDeClasses\obj\Debug\PropriedadesDeClasses.exe
+C:\Users\lab102a\source\repos\PropriedadesDeClasses\PropriedadesDeClasses\obj\Debug\PropriedadesDeClasses.pdb

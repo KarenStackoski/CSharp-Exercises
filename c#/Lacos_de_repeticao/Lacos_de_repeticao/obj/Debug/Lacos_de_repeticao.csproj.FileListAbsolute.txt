@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\repos\Lacos_de_repeticao\Lacos_de_repeticao\bin\Debug\Lacos_de_repeticao.exe.config
+C:\Users\lab102a\source\repos\Lacos_de_repeticao\Lacos_de_repeticao\bin\Debug\Lacos_de_repeticao.exe
+C:\Users\lab102a\source\repos\Lacos_de_repeticao\Lacos_de_repeticao\bin\Debug\Lacos_de_repeticao.pdb
+C:\Users\lab102a\source\repos\Lacos_de_repeticao\Lacos_de_repeticao\obj\Debug\Lacos_de_repeticao.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\repos\Lacos_de_repeticao\Lacos_de_repeticao\obj\Debug\Lacos_de_repeticao.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\repos\Lacos_de_repeticao\Lacos_de_repeticao\obj\Debug\Lacos_de_repeticao.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\Lacos_de_repeticao\Lacos_de_repeticao\obj\Debug\Lacos_de_repeticao.exe
+C:\Users\lab102a\source\repos\Lacos_de_repeticao\Lacos_de_repeticao\obj\Debug\Lacos_de_repeticao.pdb

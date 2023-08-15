@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\repos\Primeiro_projeto\Primeiro_projeto\bin\Debug\Primeiro_projeto.exe.config
+C:\Users\lab102a\source\repos\Primeiro_projeto\Primeiro_projeto\bin\Debug\Primeiro_projeto.exe
+C:\Users\lab102a\source\repos\Primeiro_projeto\Primeiro_projeto\bin\Debug\Primeiro_projeto.pdb
+C:\Users\lab102a\source\repos\Primeiro_projeto\Primeiro_projeto\obj\Debug\Primeiro_projeto.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\repos\Primeiro_projeto\Primeiro_projeto\obj\Debug\Primeiro_projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\repos\Primeiro_projeto\Primeiro_projeto\obj\Debug\Primeiro_projeto.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\Primeiro_projeto\Primeiro_projeto\obj\Debug\Primeiro_projeto.exe
+C:\Users\lab102a\source\repos\Primeiro_projeto\Primeiro_projeto\obj\Debug\Primeiro_projeto.pdb

@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\repos\Poliformismo\Poliformismo\bin\Debug\Poliformismo.exe.config
+C:\Users\lab102a\source\repos\Poliformismo\Poliformismo\bin\Debug\Poliformismo.exe
+C:\Users\lab102a\source\repos\Poliformismo\Poliformismo\bin\Debug\Poliformismo.pdb
+C:\Users\lab102a\source\repos\Poliformismo\Poliformismo\obj\Debug\Poliformismo.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\repos\Poliformismo\Poliformismo\obj\Debug\Poliformismo.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\repos\Poliformismo\Poliformismo\obj\Debug\Poliformismo.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\Poliformismo\Poliformismo\obj\Debug\Poliformismo.exe
+C:\Users\lab102a\source\repos\Poliformismo\Poliformismo\obj\Debug\Poliformismo.pdb

@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\repos\Enums\Enums\bin\Debug\Enums.exe.config
+C:\Users\lab102a\source\repos\Enums\Enums\bin\Debug\Enums.exe
+C:\Users\lab102a\source\repos\Enums\Enums\bin\Debug\Enums.pdb
+C:\Users\lab102a\source\repos\Enums\Enums\obj\Debug\Enums.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\repos\Enums\Enums\obj\Debug\Enums.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\repos\Enums\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\Enums\Enums\obj\Debug\Enums.exe
+C:\Users\lab102a\source\repos\Enums\Enums\obj\Debug\Enums.pdb

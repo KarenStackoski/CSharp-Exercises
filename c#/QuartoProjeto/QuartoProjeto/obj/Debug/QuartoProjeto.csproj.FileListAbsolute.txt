@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\repos\QuartoProjeto\QuartoProjeto\bin\Debug\QuartoProjeto.exe.config
+C:\Users\lab102a\source\repos\QuartoProjeto\QuartoProjeto\bin\Debug\QuartoProjeto.exe
+C:\Users\lab102a\source\repos\QuartoProjeto\QuartoProjeto\bin\Debug\QuartoProjeto.pdb
+C:\Users\lab102a\source\repos\QuartoProjeto\QuartoProjeto\obj\Debug\QuartoProjeto.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\repos\QuartoProjeto\QuartoProjeto\obj\Debug\QuartoProjeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\repos\QuartoProjeto\QuartoProjeto\obj\Debug\QuartoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\QuartoProjeto\QuartoProjeto\obj\Debug\QuartoProjeto.exe
+C:\Users\lab102a\source\repos\QuartoProjeto\QuartoProjeto\obj\Debug\QuartoProjeto.pdb

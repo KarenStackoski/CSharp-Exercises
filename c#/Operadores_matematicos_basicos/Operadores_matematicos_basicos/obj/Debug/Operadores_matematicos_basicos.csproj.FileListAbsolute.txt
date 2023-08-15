@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\repos\Operadores_matematicos_basicos\Operadores_matematicos_basicos\bin\Debug\Operadores_matematicos_basicos.exe.config
+C:\Users\lab102a\source\repos\Operadores_matematicos_basicos\Operadores_matematicos_basicos\bin\Debug\Operadores_matematicos_basicos.exe
+C:\Users\lab102a\source\repos\Operadores_matematicos_basicos\Operadores_matematicos_basicos\bin\Debug\Operadores_matematicos_basicos.pdb
+C:\Users\lab102a\source\repos\Operadores_matematicos_basicos\Operadores_matematicos_basicos\obj\Debug\Operadores_matematicos_basicos.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\repos\Operadores_matematicos_basicos\Operadores_matematicos_basicos\obj\Debug\Operadores_matematicos_basicos.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\repos\Operadores_matematicos_basicos\Operadores_matematicos_basicos\obj\Debug\Operadores_matematicos_basicos.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\Operadores_matematicos_basicos\Operadores_matematicos_basicos\obj\Debug\Operadores_matematicos_basicos.exe
+C:\Users\lab102a\source\repos\Operadores_matematicos_basicos\Operadores_matematicos_basicos\obj\Debug\Operadores_matematicos_basicos.pdb

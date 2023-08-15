@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\repos\DepuracaoAvancada\DepuracaoAvancada\bin\Debug\DepuracaoAvancada.exe.config
+C:\Users\lab102a\source\repos\DepuracaoAvancada\DepuracaoAvancada\bin\Debug\DepuracaoAvancada.exe
+C:\Users\lab102a\source\repos\DepuracaoAvancada\DepuracaoAvancada\bin\Debug\DepuracaoAvancada.pdb
+C:\Users\lab102a\source\repos\DepuracaoAvancada\DepuracaoAvancada\obj\Debug\DepuracaoAvancada.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\repos\DepuracaoAvancada\DepuracaoAvancada\obj\Debug\DepuracaoAvancada.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\repos\DepuracaoAvancada\DepuracaoAvancada\obj\Debug\DepuracaoAvancada.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\DepuracaoAvancada\DepuracaoAvancada\obj\Debug\DepuracaoAvancada.exe
+C:\Users\lab102a\source\repos\DepuracaoAvancada\DepuracaoAvancada\obj\Debug\DepuracaoAvancada.pdb

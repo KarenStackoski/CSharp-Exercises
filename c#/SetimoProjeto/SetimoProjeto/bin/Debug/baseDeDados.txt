@@ -1,0 +1,14 @@
+##### INICIO #####
+NOME: Karen Stackoski
+DATA_DE_NASCIMENTO: 22/06/2004
+NOME_DA_RUA: Rua das Flores
+NUMERO_DA_CASA: 8989
+NUMERO_DO_DOCUENTO: 1256
+##### FIM #####
+##### INICIO #####
+NOME: Karen Bialescki
+DATA_DE_NASCIMENTO: 22/06/2004
+NOME_DA_RUA: Rua das Flores Azuis
+NUMERO_DA_CASA: 8785
+NUMERO_DO_DOCUENTO: 2365
+##### FIM #####

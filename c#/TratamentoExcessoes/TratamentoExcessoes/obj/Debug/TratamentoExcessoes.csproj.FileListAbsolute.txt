@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\repos\TratamentoExcessoes\TratamentoExcessoes\bin\Debug\TratamentoExcessoes.exe.config
+C:\Users\lab102a\source\repos\TratamentoExcessoes\TratamentoExcessoes\bin\Debug\TratamentoExcessoes.exe
+C:\Users\lab102a\source\repos\TratamentoExcessoes\TratamentoExcessoes\bin\Debug\TratamentoExcessoes.pdb
+C:\Users\lab102a\source\repos\TratamentoExcessoes\TratamentoExcessoes\obj\Debug\TratamentoExcessoes.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\repos\TratamentoExcessoes\TratamentoExcessoes\obj\Debug\TratamentoExcessoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\repos\TratamentoExcessoes\TratamentoExcessoes\obj\Debug\TratamentoExcessoes.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\TratamentoExcessoes\TratamentoExcessoes\obj\Debug\TratamentoExcessoes.exe
+C:\Users\lab102a\source\repos\TratamentoExcessoes\TratamentoExcessoes\obj\Debug\TratamentoExcessoes.pdb

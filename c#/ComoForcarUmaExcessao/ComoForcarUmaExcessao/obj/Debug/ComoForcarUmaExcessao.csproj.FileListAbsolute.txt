@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\repos\ComoForcarUmaExcessao\ComoForcarUmaExcessao\bin\Debug\ComoForcarUmaExcessao.exe.config
+C:\Users\lab102a\source\repos\ComoForcarUmaExcessao\ComoForcarUmaExcessao\bin\Debug\ComoForcarUmaExcessao.exe
+C:\Users\lab102a\source\repos\ComoForcarUmaExcessao\ComoForcarUmaExcessao\bin\Debug\ComoForcarUmaExcessao.pdb
+C:\Users\lab102a\source\repos\ComoForcarUmaExcessao\ComoForcarUmaExcessao\obj\Debug\ComoForcarUmaExcessao.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\repos\ComoForcarUmaExcessao\ComoForcarUmaExcessao\obj\Debug\ComoForcarUmaExcessao.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\repos\ComoForcarUmaExcessao\ComoForcarUmaExcessao\obj\Debug\ComoForcarUmaExcessao.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\ComoForcarUmaExcessao\ComoForcarUmaExcessao\obj\Debug\ComoForcarUmaExcessao.exe
+C:\Users\lab102a\source\repos\ComoForcarUmaExcessao\ComoForcarUmaExcessao\obj\Debug\ComoForcarUmaExcessao.pdb

@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\repos\FilasPilhas\FilasPilhas\bin\Debug\FilasPilhas.exe.config
+C:\Users\lab102a\source\repos\FilasPilhas\FilasPilhas\bin\Debug\FilasPilhas.exe
+C:\Users\lab102a\source\repos\FilasPilhas\FilasPilhas\bin\Debug\FilasPilhas.pdb
+C:\Users\lab102a\source\repos\FilasPilhas\FilasPilhas\obj\Debug\FilasPilhas.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\repos\FilasPilhas\FilasPilhas\obj\Debug\FilasPilhas.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\repos\FilasPilhas\FilasPilhas\obj\Debug\FilasPilhas.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\FilasPilhas\FilasPilhas\obj\Debug\FilasPilhas.exe
+C:\Users\lab102a\source\repos\FilasPilhas\FilasPilhas\obj\Debug\FilasPilhas.pdb

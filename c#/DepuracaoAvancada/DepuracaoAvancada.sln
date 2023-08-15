@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepuracaoAvancada", "DepuracaoAvancada\DepuracaoAvancada.csproj", "{F5B3F3C2-4A70-49F8-8126-D7ED9E7ABBDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5B3F3C2-4A70-49F8-8126-D7ED9E7ABBDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B3F3C2-4A70-49F8-8126-D7ED9E7ABBDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B3F3C2-4A70-49F8-8126-D7ED9E7ABBDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B3F3C2-4A70-49F8-8126-D7ED9E7ABBDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D546E56-C225-421F-A627-298EB76B4CC6}
+	EndGlobalSection
+EndGlobal
