@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\repos\Upcasting_Downcasting\Upcasting_Downcasting\bin\Debug\Upcasting_Downcasting.exe.config
+C:\Users\lab102a\source\repos\Upcasting_Downcasting\Upcasting_Downcasting\bin\Debug\Upcasting_Downcasting.exe
+C:\Users\lab102a\source\repos\Upcasting_Downcasting\Upcasting_Downcasting\bin\Debug\Upcasting_Downcasting.pdb
+C:\Users\lab102a\source\repos\Upcasting_Downcasting\Upcasting_Downcasting\obj\Debug\Upcasting_Downcasting.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\repos\Upcasting_Downcasting\Upcasting_Downcasting\obj\Debug\Upcasting_Downcasting.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\repos\Upcasting_Downcasting\Upcasting_Downcasting\obj\Debug\Upcasting_Downcasting.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\Upcasting_Downcasting\Upcasting_Downcasting\obj\Debug\Upcasting_Downcasting.exe
+C:\Users\lab102a\source\repos\Upcasting_Downcasting\Upcasting_Downcasting\obj\Debug\Upcasting_Downcasting.pdb

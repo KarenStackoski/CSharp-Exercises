@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\repos\Tipo_DateTime\Tipo_DateTime\bin\Debug\Tipo_DateTime.exe.config
+C:\Users\lab102a\source\repos\Tipo_DateTime\Tipo_DateTime\bin\Debug\Tipo_DateTime.exe
+C:\Users\lab102a\source\repos\Tipo_DateTime\Tipo_DateTime\bin\Debug\Tipo_DateTime.pdb
+C:\Users\lab102a\source\repos\Tipo_DateTime\Tipo_DateTime\obj\Debug\Tipo_DateTime.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\repos\Tipo_DateTime\Tipo_DateTime\obj\Debug\Tipo_DateTime.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\repos\Tipo_DateTime\Tipo_DateTime\obj\Debug\Tipo_DateTime.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\Tipo_DateTime\Tipo_DateTime\obj\Debug\Tipo_DateTime.exe
+C:\Users\lab102a\source\repos\Tipo_DateTime\Tipo_DateTime\obj\Debug\Tipo_DateTime.pdb

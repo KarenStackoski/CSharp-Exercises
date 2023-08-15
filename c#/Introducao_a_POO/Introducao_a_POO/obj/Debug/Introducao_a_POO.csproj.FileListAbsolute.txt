@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\repos\Introducao_a_POO\Introducao_a_POO\bin\Debug\Introducao_a_POO.exe.config
+C:\Users\lab102a\source\repos\Introducao_a_POO\Introducao_a_POO\bin\Debug\Introducao_a_POO.exe
+C:\Users\lab102a\source\repos\Introducao_a_POO\Introducao_a_POO\bin\Debug\Introducao_a_POO.pdb
+C:\Users\lab102a\source\repos\Introducao_a_POO\Introducao_a_POO\obj\Debug\Introducao_a_POO.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\repos\Introducao_a_POO\Introducao_a_POO\obj\Debug\Introducao_a_POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\repos\Introducao_a_POO\Introducao_a_POO\obj\Debug\Introducao_a_POO.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\Introducao_a_POO\Introducao_a_POO\obj\Debug\Introducao_a_POO.exe
+C:\Users\lab102a\source\repos\Introducao_a_POO\Introducao_a_POO\obj\Debug\Introducao_a_POO.pdb

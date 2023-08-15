@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\repos\SetimoProjeto\SetimoProjeto\obj\Debug\SetimoProjeto.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\repos\SetimoProjeto\SetimoProjeto\obj\Debug\SetimoProjeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\repos\SetimoProjeto\SetimoProjeto\obj\Debug\SetimoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\SetimoProjeto\SetimoProjeto\bin\Debug\SetimoProjeto.exe.config
+C:\Users\lab102a\source\repos\SetimoProjeto\SetimoProjeto\bin\Debug\SetimoProjeto.exe
+C:\Users\lab102a\source\repos\SetimoProjeto\SetimoProjeto\bin\Debug\SetimoProjeto.pdb
+C:\Users\lab102a\source\repos\SetimoProjeto\SetimoProjeto\obj\Debug\SetimoProjeto.exe
+C:\Users\lab102a\source\repos\SetimoProjeto\SetimoProjeto\obj\Debug\SetimoProjeto.pdb

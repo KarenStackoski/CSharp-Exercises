@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\repos\Estrutura_decisao\Estrutura_decisao\bin\Debug\Estrutura_decisao.exe.config
+C:\Users\lab102a\source\repos\Estrutura_decisao\Estrutura_decisao\bin\Debug\Estrutura_decisao.exe
+C:\Users\lab102a\source\repos\Estrutura_decisao\Estrutura_decisao\bin\Debug\Estrutura_decisao.pdb
+C:\Users\lab102a\source\repos\Estrutura_decisao\Estrutura_decisao\obj\Debug\Estrutura_decisao.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\repos\Estrutura_decisao\Estrutura_decisao\obj\Debug\Estrutura_decisao.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\repos\Estrutura_decisao\Estrutura_decisao\obj\Debug\Estrutura_decisao.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\Estrutura_decisao\Estrutura_decisao\obj\Debug\Estrutura_decisao.exe
+C:\Users\lab102a\source\repos\Estrutura_decisao\Estrutura_decisao\obj\Debug\Estrutura_decisao.pdb

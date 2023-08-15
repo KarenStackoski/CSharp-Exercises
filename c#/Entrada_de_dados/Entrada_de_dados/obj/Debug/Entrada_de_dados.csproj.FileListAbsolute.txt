@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\repos\Entrada_de_dados\Entrada_de_dados\bin\Debug\Entrada_de_dados.exe.config
+C:\Users\lab102a\source\repos\Entrada_de_dados\Entrada_de_dados\bin\Debug\Entrada_de_dados.exe
+C:\Users\lab102a\source\repos\Entrada_de_dados\Entrada_de_dados\bin\Debug\Entrada_de_dados.pdb
+C:\Users\lab102a\source\repos\Entrada_de_dados\Entrada_de_dados\obj\Debug\Entrada_de_dados.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\repos\Entrada_de_dados\Entrada_de_dados\obj\Debug\Entrada_de_dados.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\repos\Entrada_de_dados\Entrada_de_dados\obj\Debug\Entrada_de_dados.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\Entrada_de_dados\Entrada_de_dados\obj\Debug\Entrada_de_dados.exe
+C:\Users\lab102a\source\repos\Entrada_de_dados\Entrada_de_dados\obj\Debug\Entrada_de_dados.pdb

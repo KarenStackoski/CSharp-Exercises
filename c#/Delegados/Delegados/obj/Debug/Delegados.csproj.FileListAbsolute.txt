@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\repos\Delegados\Delegados\obj\Debug\Delegados.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\repos\Delegados\Delegados\obj\Debug\Delegados.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\repos\Delegados\Delegados\obj\Debug\Delegados.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\Delegados\Delegados\bin\Debug\Delegados.exe.config
+C:\Users\lab102a\source\repos\Delegados\Delegados\bin\Debug\Delegados.exe
+C:\Users\lab102a\source\repos\Delegados\Delegados\bin\Debug\Delegados.pdb
+C:\Users\lab102a\source\repos\Delegados\Delegados\obj\Debug\Delegados.exe
+C:\Users\lab102a\source\repos\Delegados\Delegados\obj\Debug\Delegados.pdb

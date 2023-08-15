@@ -1,0 +1,8 @@
+C:\Users\lab102a\source\repos\Segundo_projeto\Segundo_projeto\bin\Debug\Segundo_projeto.exe.config
+C:\Users\lab102a\source\repos\Segundo_projeto\Segundo_projeto\bin\Debug\Segundo_projeto.exe
+C:\Users\lab102a\source\repos\Segundo_projeto\Segundo_projeto\bin\Debug\Segundo_projeto.pdb
+C:\Users\lab102a\source\repos\Segundo_projeto\Segundo_projeto\obj\Debug\Segundo_projeto.csproj.AssemblyReference.cache
+C:\Users\lab102a\source\repos\Segundo_projeto\Segundo_projeto\obj\Debug\Segundo_projeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab102a\source\repos\Segundo_projeto\Segundo_projeto\obj\Debug\Segundo_projeto.csproj.CoreCompileInputs.cache
+C:\Users\lab102a\source\repos\Segundo_projeto\Segundo_projeto\obj\Debug\Segundo_projeto.exe
+C:\Users\lab102a\source\repos\Segundo_projeto\Segundo_projeto\obj\Debug\Segundo_projeto.pdb

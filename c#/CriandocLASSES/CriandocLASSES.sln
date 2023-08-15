@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriandoClasses", "CriandocLASSES\CriandoClasses.csproj", "{30F7306D-CF90-4D6B-A43F-2C7A9F25B41E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30F7306D-CF90-4D6B-A43F-2C7A9F25B41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F7306D-CF90-4D6B-A43F-2C7A9F25B41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F7306D-CF90-4D6B-A43F-2C7A9F25B41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F7306D-CF90-4D6B-A43F-2C7A9F25B41E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA4CBEF6-F927-438D-8308-E205D2C40C38}
+	EndGlobalSection
+EndGlobal
